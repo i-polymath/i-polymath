@@ -6,6 +6,9 @@ A Data Analyst & BI Developer with 5+ years in analytics consulting. I've worked
 I care about turning (often complex) data into clear, actionable insights accessible to the people who need it.
 
 
+
+
+
 ## 🛠️ Tools & Technologies
 
 <table>
@@ -48,5 +51,36 @@ I care about turning (often complex) data into clear, actionable insights access
 </table>
 
 
-## 🛠️ Featured Project(s)
+
+
+
+## 📽️ Featured Project(s)
+
 ### [Global Conflicts Monitor](https://app.powerbi.com/view?r=eyJrIjoiZGE3ZWJjYmQtODg4Yi00MzM2LThkYTYtZjhhZjk3MzMxZmI4IiwidCI6ImQ4YWJjM2VkLWE2ZTEtNGUzNi1iMGFhLTQ1NzA3Zjc5M2YxMiJ9)
+`Power BI` `DAX` `Azure Maps` `ACLED` `UNHCR` `Geopolitics` `Star Schema`
+
+An interactive four-page Power BI dashboard integrating ACLED conflict event data with UNHCR displacement statistics — covering 1.3M+ conflict events, 1.9M reported fatalities, and 560M+ displaced persons across 200+ countries from 2015 to 2026.
+
+Built on a star schema with shared country and date dimensions. Features include Azure Maps with dynamic conditional formatting, DAX-powered metric switching, YoY change measures, Smart Narratives, built-in time-series forecasting, drill-through pages with demographic breakdowns, and a log-scale scatterplot examining conflict intensity vs. displacement at country level.
+
+
+### [AI-Driven Opportunity Prioritisation System](https://app.powerbi.com/view?r=eyJrIjoiZmIyYjljNjUtN2RjNC00ZGM4LTgwN2YtZTFjMDUxNzVjNDZjIiwidCI6ImQ4YWJjM2VkLWE2ZTEtNGUzNi1iMGFhLTQ1NzA3Zjc5M2YxMiJ9) 
+`Power BI` `Python` `Logistic Regression` `LDA` `SHAP` `NLP` `Analytics Consulting` [GitHub Repo](https://github.com/i-polymath/bd-opportunity-prioritization-system)
+
+MSc capstone project (EU Business School, Barcelona) building a decision-support system to help consulting firms make smarter go/no-go calls on business development opportunities.
+
+Combines a logistic regression win probability model (AUC-ROC: 0.684), LDA topic modelling on TOR/RFP text, and SHAP-based explainability with a configurable strategic value scoring framework across four dimensions: contract scale, client importance, practice growth alignment, and portfolio diversification. A composite decision score integrates both layers across three strategic scenarios, surfaced through a Power BI dashboard prototype. Built on 437 historical BD records from a real-life management consulting firm. 
+
+
+
+
+
+## 🌍 Background
+
+Beyond my work in data analytics consulting for private businesses, public health, and international development, I have also worked in the energy/oil and gas sector. I have a Bachelor's degree in Chemical Engineering, and worked for a few years in chemical/agro production and thermal energy production. I am interested in the intersection of data, policy, and strategic business decisions. You can explore my [Portfolio](https://sites.google.com/view/pascalokechukwu) for some of my personal and sample work projects. Connect with me on [LinkedIn](https://www.linkedin.com/in/imaginepascal)
+
+
+
+
+## 🌅 Non-Professional Life 
+I love travelling and the outdoors (hikes, city-scaping). I love anime, and I visit the cinema often. I read old literature, and importantly, I write when I can. You can check out my personal blog at [thelivingplanet](https://thelivingplanet.blog/)
