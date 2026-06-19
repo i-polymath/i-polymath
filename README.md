@@ -83,4 +83,4 @@ Beyond my work in data analytics consulting for private businesses, public healt
 
 
 ## 🌅 Non-Professional Life 
-I love travelling and the outdoors (hikes, city-scaping). I love anime, and I visit the cinema often. I read old literature, and importantly, I write when I can. You can check out my personal blog at [thelivingplanet](https://thelivingplanet.blog/)
+I love travelling and the outdoors (hikes, city-scaping). I love anime, and I visit the cinema often. I read old literature, and importantly, I write when I can. 
